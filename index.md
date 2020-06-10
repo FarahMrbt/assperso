@@ -1,5 +1,4 @@
-# Projet de fin d'année : 
-# _Les Assistants vocaux & personnels_
+# Projet de fin d'année : Les Assistants vocaux & personnels
 
 
 ## Introduction
