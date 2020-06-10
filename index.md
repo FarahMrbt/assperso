@@ -1,7 +1,7 @@
 
-_Les Assistants vocaux & personnels_
+## _Les Assistants vocaux & personnels_
 
-## Introduction
+### Introduction
 
 Cette page Github aura pour sujet les assistants vocaux et personnels.
 
@@ -18,11 +18,11 @@ les images.
 ![image d'accueil](Images/1.png) (https://mbamci.com/assistants-vocaux-nouvel-eldorado/) 
 
 
-## 1. Définition et Fonctionnement 
+### 1. Définition et Fonctionnement 
 
-## 2. Quelques mots sur l'histoire 
-## 3. Évolutions & Défis 
-## 4. Leurs Dérives
+### 2. Quelques mots sur l'histoire 
+### 3. Évolutions & Défis 
+### 4. Leurs Dérives
 
 
 You can use the [editor on GitHub](https://github.com/FarahMrbt/assperso/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
