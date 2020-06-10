@@ -1,7 +1,7 @@
-## Projet de fin d'année : Les Assistants vocaux & personnels
+# Projet de fin d'année : Les Assistants vocaux & personnels
 
 
-### _Introduction_
+## _Introduction_
 
 Cette page Github aura pour sujet les assistants vocaux et personnels.
 
@@ -19,7 +19,8 @@ les images.
 DROUGLAZET, Klervi. « L’IA de Google Home et Assistant rompt (enfin) la barrière de la langue, et va même plus loin... » [en ligne]. In _L’usine-digitale._ Mise en ligne le 19 mai 2017 [Consulté le 10 juin 2020]. Disponible sur le Web: <https://www.usine-digitale.fr/article/l-ia-de-google-home-et-assistant-rompt-enfin-la-barriere-de-la-langue-et-va-meme-plus-loin.N542584>
 
 
-### 1. _Définition et Fonctionnement_
+## 1. _Définition et Fonctionnement_
+
 - WIKIPEDIA. « Assistant personnel intelligent » [en ligne]. In _Wikipédia, l’encyclopédie libre._ Mise à jour le 27 avril 2020 [Consulté le 10 juin 2020]. Disponible sur le Web : <https://fr.wikipedia.org/wiki/Assistant_personnel_intelligent>
 ![image wiki1](pic/wiki1.png)
 ![image wiki3](pic/wiki3.png)
@@ -39,12 +40,18 @@ DROUGLAZET, Klervi. « L’IA de Google Home et Assistant rompt (enfin) la barri
 ![image you](pic/you1.png)
 
 
-### 2. _Quelques mots sur l'histoire_
+## 2. _Quelques mots sur l'histoire_
+
 - WIKIPEDIA. « Assistant personnel intelligent » [en ligne]. In _Wikipédia, l’encyclopédie libre._ Mise à jour le 27 avril 2020 [Consulté le 10 juin 2020]. Disponible sur le Web : <https://fr.wikipedia.org/wiki/Assistant_personnel_intelligent>
 ![image wiki2](pic/wiki2.png)
 
 
-### 3. _Évolutions & Défis_
+## 3. _Évolutions & Défis_
+
+- TALBI, Ilyes. « Personne n’aime parler à une IA : le problème des assistants vocaux » [en ligne]. In  _La revue IA._ Mise en ligne le 9 avril 2020 [Consulté le 10 juin 2020]. Disponible sur le Web : <https://larevueia.fr/personne-naime-parler-a-une-machine/>
+![image revue1](pic/revue1.png)
+![image revue2](pic/revue2.png)
+
 - BELLAMY, Alexandra. « Assistants domestiques et assistance vocale : tout ce qu’il faut savoir » [en ligne]. In _Home énergie._  Mise en ligne le 19 juin 2019 [Consulté le 10 juin 2020]. Disponible sur le Web : <https://homenergie.maison-travaux.fr/homenergie/solutions-du-quotidien-home-energie/objets-connectes-home-energie/assistants-domestiques-assistance-vocale-quil-faut-savoir-247154.html>
 ![image he1](pic/he1.png)
 
@@ -57,41 +64,29 @@ DROUGLAZET, Klervi. « L’IA de Google Home et Assistant rompt (enfin) la barri
 ![image ex1](pic/ex1.png)
 ![image ex2](pic/ex2.png)
 
-### 4. Leurs Dérives
 
+## 4. Leurs Dérives
 
-You can use the [editor on GitHub](https://github.com/FarahMrbt/assperso/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- MICHEL. « Un assistant vocal : comment ça marche? » [en ligne]. In _L’origine._ [Consulté le 10 juin 2020]. Disponible sur le Web : <https://www.lorigine.fr/un-assistant-vocal-comment-ca-marche/> 
+![image origine1](pic/origine1.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- COMMISSION NATIONALE DE L'INFORMATIQUE ET DES LIBERTÉS (CNIL). « Enceintes intelligentes : des assistants vocaux connectés à votre vie privée » [en ligne]. In _CNIL._ Mise en ligne le 20 décembre 2018 [Consulté le 10 juin 2020]. Disponible sur le Web : <https://www.cnil.fr/fr/enceintes-intelligentes-des-assistants-vocaux-connectes-votre-vie-privee>
+![image cnil5](pic/cnil5.png)
+![image cnil6](pic/cnil6.png)
+![image cnil7](pic/cnil7.png)
 
-### Markdown
+- CNEWS. « Amazon : les employés écoutent les conversations grâce à l’assistant vocal Alexa » [en ligne]. in Google. 
+_Youtube._ Mise en ligne le 12 avril 2019 [Consulté le 10 juin 2020]. Disponible sur le Web : <https://www.youtube.com/watch?v=mwQzIC2FyJo>
+![image you2](pic/you2.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- ORANGE. « Donnée je t’aime, épisode 1 : les assistants vocaux » [en ligne]. In _Orange France._ Publié le 11 décembre 2019 [Consulté le 10 juin 2020]. Disponible sur le Web : <https://orangecyberdefense.com/fr/insights/blog/fuite_de_donnees/donnee-je-taime-1-les-assistants-vocaux/>
+![image orange1](pic/orange1.png)
+![image orange2](pic/orange2.png)
+![image orange3](pic/orange3.png)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FarahMrbt/assperso/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- LE MONDE. « Les assistants vocaux renforcent les stéréotypes sexistes, selon un rapport de l’ONU » [en ligne]. _Le Monde.fr._ Mise en ligne le 22 mai 2019 [Consulté le 10 juin 2020]. Disponible sur le Web : <https://www.lemonde.fr/pixels/article/2019/05/22/les-assistants-vocaux-renforcent-les-stereotypes-sexistes-selon-un-rapport-de-l-onu_5465684_4408996.html>
+![image monde4](pic/monde4.png)
+![image monde3](pic/monde3.png)
+![image monde1](pic/monde1.png)
+![image monde6](pic/monde6.png)
+![image monde7](pic/monde7.png)
