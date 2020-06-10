@@ -9,7 +9,11 @@ Ce dossier documentaire tentera de percer au mieux cette technique.À travers le
 - L'évolution de cette technique et les défis qui l'attendent.
 - Les possibles dérives de cette technique.
 
-L'organisation de ce documentaire suivra donc cette structure et inscrira à chaque fois les sources mises en lien à travers les images.
+L'organisation de ce documentaire suivra donc cette structure et inscrira à chaque fois les sources mises en lien à travers 
+[les images.](Images/1.png)(https://mbamci.com/assistants-vocaux-nouvel-eldorado/) 
+
+
+
 
 ## 1. Définition et Fonctionnement 
 ## 2. Quelques mots sur l'histoire 
