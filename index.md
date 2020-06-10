@@ -1,7 +1,7 @@
 ## Projet de fin d'année : Les Assistants vocaux & personnels
 
 
-### Introduction
+### _Introduction_
 
 Cette page Github aura pour sujet les assistants vocaux et personnels.
 
@@ -16,43 +16,43 @@ Ce dossier documentaire tentera de percer au mieux cette technologie. À travers
 L'organisation de ce documentaire suivra donc cette structure et inscrira à chaque fois les sources mises en lien à travers 
 les images.
 ![image d'accueil](Images/1.png) 
-DROUGLAZET, Klervi. « L’IA de Google Home et Assistant rompt (enfin) la barrière de la langue, et va même plus loin... » [en ligne]. In L’usine-digitale. Mise en ligne le 19 mai 2017 [Consulté le 10 juin 2020]. Disponible sur le Web: <https://www.usine-digitale.fr/article/l-ia-de-google-home-et-assistant-rompt-enfin-la-barriere-de-la-langue-et-va-meme-plus-loin.N542584>
+DROUGLAZET, Klervi. « L’IA de Google Home et Assistant rompt (enfin) la barrière de la langue, et va même plus loin... » [en ligne]. In _L’usine-digitale._ Mise en ligne le 19 mai 2017 [Consulté le 10 juin 2020]. Disponible sur le Web: <https://www.usine-digitale.fr/article/l-ia-de-google-home-et-assistant-rompt-enfin-la-barriere-de-la-langue-et-va-meme-plus-loin.N542584>
 
 
-### 1. Définition et Fonctionnement 
-- WIKIPEDIA. « Assistant personnel intelligent » [en ligne]. In Wikipédia, l’encyclopédie libre. Mise à jour le 27 avril 2020 [Consulté le 10 juin 2020]. Disponible sur le Web : <https://fr.wikipedia.org/wiki/Assistant_personnel_intelligent>
+### 1. _Définition et Fonctionnement_
+- WIKIPEDIA. « Assistant personnel intelligent » [en ligne]. In _Wikipédia, l’encyclopédie libre._ Mise à jour le 27 avril 2020 [Consulté le 10 juin 2020]. Disponible sur le Web : <https://fr.wikipedia.org/wiki/Assistant_personnel_intelligent>
 ![image wiki1](pic/wiki1.png)
 ![image wiki3](pic/wiki3.png)
 ![image wiki4](pic/wiki4.png)
 
-- COMMISSION NATIONALE DE L'INFORMATIQUE ET DES LIBERTÉS (CNIL). « Enceintes intelligentes : des assistants vocaux connectés à votre vie privée » [en ligne]. In CNIL. Mise en ligne le 20 décembre 2018 [Consulté le 10 juin 2020]. Disponible sur le Web : <https://www.cnil.fr/fr/enceintes-intelligentes-des-assistants-vocaux-connectes-votre-vie-privee>
+- COMMISSION NATIONALE DE L'INFORMATIQUE ET DES LIBERTÉS (CNIL). « Enceintes intelligentes : des assistants vocaux connectés à votre vie privée » [en ligne]. In _CNIL._ Mise en ligne le 20 décembre 2018 [Consulté le 10 juin 2020]. Disponible sur le Web : <https://www.cnil.fr/fr/enceintes-intelligentes-des-assistants-vocaux-connectes-votre-vie-privee>
 ![image cnil1](pic/cnil1.png)
 ![image cnil2](pic/cnil2.png)
 ![image cnil3](pic/cnil3.gif)
 ![image cnil4](pic/cnil4.png)
 
-- BELLAMY, Alexandra. « Assistants domestiques et assistance vocale : tout ce qu’il faut savoir » [en ligne]. In Home énergie.  Mise en ligne le 19 juin 2019 [Consulté le 10 juin 2020]. Disponible sur le Web : <https://homenergie.maison-travaux.fr/homenergie/solutions-du-quotidien-home-energie/objets-connectes-home-energie/assistants-domestiques-assistance-vocale-quil-faut-savoir-247154.html>
+- BELLAMY, Alexandra. « Assistants domestiques et assistance vocale : tout ce qu’il faut savoir » [en ligne]. In _Home énergie._  Mise en ligne le 19 juin 2019 [Consulté le 10 juin 2020]. Disponible sur le Web : <https://homenergie.maison-travaux.fr/homenergie/solutions-du-quotidien-home-energie/objets-connectes-home-energie/assistants-domestiques-assistance-vocale-quil-faut-savoir-247154.html>
 ![image he2](pic/he2.png)
 ![image he3](pic/he3.png)
 
-- TECHNOÏDES ASSOCIÉS. « fonctionnement assistant vocal » [en ligne]. In Google. Youtube. Mise en ligne le 16 septembre 2017 [Consulté le 10 juin 2020]. Disponible sur le Web : <https://www.youtube.com/watch?v=1ZnYok0nvwA&feature=youtu.be>
+- TECHNOÏDES ASSOCIÉS. « fonctionnement assistant vocal » [en ligne]. In Google. _Youtube._ Mise en ligne le 16 septembre 2017 [Consulté le 10 juin 2020]. Disponible sur le Web : <https://www.youtube.com/watch?v=1ZnYok0nvwA&feature=youtu.be>
 ![image you](pic/you1.png)
 
 
-### 2. Quelques mots sur l'histoire 
-- WIKIPEDIA. « Assistant personnel intelligent » [en ligne]. In Wikipédia, l’encyclopédie libre. Mise à jour le 27 avril 2020 [Consulté le 10 juin 2020]. Disponible sur le Web : <https://fr.wikipedia.org/wiki/Assistant_personnel_intelligent>
+### 2. _Quelques mots sur l'histoire_
+- WIKIPEDIA. « Assistant personnel intelligent » [en ligne]. In _Wikipédia, l’encyclopédie libre._ Mise à jour le 27 avril 2020 [Consulté le 10 juin 2020]. Disponible sur le Web : <https://fr.wikipedia.org/wiki/Assistant_personnel_intelligent>
 ![image wiki2](pic/wiki2.png)
 
 
-### 3. Évolutions & Défis 
-- BELLAMY, Alexandra. « Assistants domestiques et assistance vocale : tout ce qu’il faut savoir » [en ligne]. In Home énergie.  Mise en ligne le 19 juin 2019 [Consulté le 10 juin 2020]. Disponible sur le Web : <https://homenergie.maison-travaux.fr/homenergie/solutions-du-quotidien-home-energie/objets-connectes-home-energie/assistants-domestiques-assistance-vocale-quil-faut-savoir-247154.html>
+### 3. _Évolutions & Défis_
+- BELLAMY, Alexandra. « Assistants domestiques et assistance vocale : tout ce qu’il faut savoir » [en ligne]. In _Home énergie._  Mise en ligne le 19 juin 2019 [Consulté le 10 juin 2020]. Disponible sur le Web : <https://homenergie.maison-travaux.fr/homenergie/solutions-du-quotidien-home-energie/objets-connectes-home-energie/assistants-domestiques-assistance-vocale-quil-faut-savoir-247154.html>
 ![image he1](pic/he1.png)
 
-- WIKIPEDIA. « Assistant personnel intelligent » [en ligne]. In Wikipédia, l’encyclopédie libre. Mise à jour le 27 avril 2020 [Consulté le 10 juin 2020]. Disponible sur le Web : <https://fr.wikipedia.org/wiki/Assistant_personnel_intelligent>
+- WIKIPEDIA. « Assistant personnel intelligent » [en ligne]. In _Wikipédia, l’encyclopédie libre._ Mise à jour le 27 avril 2020 [Consulté le 10 juin 2020]. Disponible sur le Web : <https://fr.wikipedia.org/wiki/Assistant_personnel_intelligent>
 ![image wiki6](pic/wiki6.png)
 ![image wiki5](pic/wiki5.png)
 
-- MONNEAUX, Fanny. « Assistant personnel: les tendances de demain » [en ligne].  LExpress.fr. 28 novembre 2016 [Consulté le 10 juin 2020]. Disponible sur le Web : <https://www.lexpress.fr/tendances/produit-high-tech/assistant-personnel-les-tendances-de-demain_1849633.html> 
+- MONNEAUX, Fanny. « Assistant personnel: les tendances de demain » [en ligne].  _LExpress.fr._ 28 novembre 2016 [Consulté le 10 juin 2020]. Disponible sur le Web : <https://www.lexpress.fr/tendances/produit-high-tech/assistant-personnel-les-tendances-de-demain_1849633.html> 
 
 ![image ex1](pic/ex1.png)
 ![image ex2](pic/ex2.png)
