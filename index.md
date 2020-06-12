@@ -21,6 +21,9 @@ DROUGLAZET, Klervi. « L’IA de Google Home et Assistant rompt (enfin) la barri
 
 ## 1. _Définition et Fonctionnement_
 
+- BRUCO, Marie-Isabelle. « Assistants Vocaux, nouvel eldorado du marketing numérique ? » [en ligne]. In MBAMCI. Assistants Vocaux, nouvel eldorado du marketing numérique ?. Mise en ligne le 27 mai 2017 [consulté le 10 juin 2020]. Disponible sur le Web : < https://mbamci.com/assistants-vocaux-nouvel-eldorado/ >
+![image mba1](pic/mba1.png)
+
 - WIKIPEDIA. « Assistant personnel intelligent » [en ligne]. In _Wikipédia, l’encyclopédie libre._ Mise à jour le 27 avril 2020 [Consulté le 10 juin 2020]. Disponible sur le Web : <https://fr.wikipedia.org/wiki/Assistant_personnel_intelligent>
 ![image wiki1](pic/wiki1.png)
 ![image wiki3](pic/wiki3.png)
